@@ -1,6 +1,6 @@
 ## Hi there, my name is Jie! 👋
 
-<p align="center"><img src="https://raw.githubusercontent.com/JSaokaeo/JSaokaeo/refs/heads/main/gif.gif" width="1000"/></p>
+<p align="center"><img src="https://raw.githubusercontent.com/JSaokaeo/JSaokaeo/refs/heads/main/gif.gif" width="500"/></p>
 
 <!--
 **JSaokaeo/JSaokaeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
