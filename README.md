@@ -1,6 +1,6 @@
 ## Hi there, my name is Jie! 👋
 
-<p align="center"><img src="https://giphy.com/embed/N5B19awm2YvwMwf8JE" width="378" height="480" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/pixel-art-arial-cardinal-bird-N5B19awm2YvwMwf8JE" width="1000"/></p>
+<p align="center"><img src="https://giphy.com/embed/gx54W1mSpeYMg" width="1000"/></p>
 
 <!--
 **JSaokaeo/JSaokaeo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
